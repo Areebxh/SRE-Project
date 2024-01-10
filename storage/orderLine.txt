@@ -1,0 +1,6 @@
+1,Pizza,1,11.0
+2,Pizza,2,22.0
+3,crown crust,3,4500.0
+4,pizza,30,30000.0
+5,pizza,10,10000.0
+6,Shuwarma,10,2000.0
